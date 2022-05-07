@@ -2,7 +2,7 @@
 - name: create user
   hosts:
   tasks: 
-   - name: usercreation
+   - name: user creation
      user:
       name: shreeram
       password: sitaram
