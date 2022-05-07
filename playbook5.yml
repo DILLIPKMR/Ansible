@@ -6,5 +6,4 @@
      user:
       name: "{{a}}"
       password: "{{b}}"
-      home: "{{c}}"
 ... 
